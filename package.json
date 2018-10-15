@@ -1,0 +1,20 @@
+{
+  "name": "tag-checker",
+  "version": "1.0.0",
+  "description": "Solution for tag checker problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tag",
+    "checker",
+    "regular",
+    "expression",
+    "data",
+    "structure",
+    "stack"
+  ],
+  "author": "guanzhou-zhao",
+  "license": "ISC"
+}
