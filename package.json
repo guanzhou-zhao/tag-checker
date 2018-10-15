@@ -16,5 +16,8 @@
     "stack"
   ],
   "author": "guanzhou-zhao",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "1.0.0-rc.1"
+  }
 }
