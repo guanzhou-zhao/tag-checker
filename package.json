@@ -4,7 +4,7 @@
   "description": "Solution for tag checker problem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/.bin/ava tests/**/*.test.js --verbose"
   },
   "keywords": [
     "tag",
